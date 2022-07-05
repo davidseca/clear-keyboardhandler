@@ -1,0 +1,9 @@
+use_frameworks!
+
+platform :ios, '14.0'
+
+target 'ClearKeyboardHandler_Example' do
+
+  pod 'ClearKeyboardHandler', :path => '../'
+
+end
