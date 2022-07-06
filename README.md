@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Swift 5.0](https://img.shields.io/badge/Swift-5.0-green.svg)
-[![Version](https://img.shields.io/badge/pod-v0.0.1-red)](http://cocoapods.org/pods/ClearKeyboardHandler)
+[![Version](https://img.shields.io/badge/pod-v0.0.2-red)](http://cocoapods.org/pods/ClearKeyboardHandler)
 [![Contact](https://img.shields.io/badge/Contact-%40davidseca-blue)](http://davidseca.website2.me)
 
 

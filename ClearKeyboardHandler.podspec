@@ -8,14 +8,14 @@
 
 Pod::Spec.new do |spec|
   spec.name = "ClearKeyboardHandler"
-  spec.version = "0.0.1"
+  spec.version = "0.0.2"
   spec.summary = "A clear KeyboardHandler."
   spec.description = <<-DESC
   David Seca - just clear
   Clear KeyboardHandler provides an easy way to manage Keyboard handlig
   DESC
 
-  spec.homepage = "http://davidseca.website2.me"
+  spec.homepage = "https://github.com/davidseca/clear-keyboardhandler.git"
 
   spec.license = { :type => 'MIT', :file => 'LICENSE' }
 
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   spec.ios.deployment_target = '14.0'
   spec.swift_versions = [ '5.0' ]
 
-  spec.source = { :git => "git@github.com:davidseca/clear-keyboardhandler.git", :tag => "#{spec.version}" }
+  spec.source = { :git => "https://github.com/davidseca/clear-keyboardhandler.git", :tag => "#{spec.version}" }
   spec.source_files = "ClearKeyboardHandler/**/*.{swift}"
 
   spec.framework = "UIKit"

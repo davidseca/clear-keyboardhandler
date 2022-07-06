@@ -1,16 +1,16 @@
 PODS:
-  - ClearKeyboardHandler (0.0.1)
+  - ClearKeyboardHandler (0.0.2)
 
 DEPENDENCIES:
-  - ClearKeyboardHandler (from `..`)
+  - ClearKeyboardHandler (from `../`)
 
 EXTERNAL SOURCES:
   ClearKeyboardHandler:
-    :path: ".."
+    :path: "../"
 
 SPEC CHECKSUMS:
-  ClearKeyboardHandler: a4e67065c79e6fdea15cf1be19433fef6e4eae56
+  ClearKeyboardHandler: 28e53c0313fc1d80e46a6a390890641cfc2906bd
 
-PODFILE CHECKSUM: 94ae2658c9941a2e9341a881e75e8c6a7edce4b5
+PODFILE CHECKSUM: 5d92ae0243bf3cb4a79d966a90994ec8d93e119b
 
 COCOAPODS: 1.11.3
