@@ -2,8 +2,8 @@
 
 ![License](https://img.shields.io/github/license/mashape/apistatus.svg)
 ![Swift 5.0](https://img.shields.io/badge/Swift-5.0-green.svg)
-[![Version](https://img.shields.io/badge/pod-v0.0.2-red)](http://cocoapods.org/pods/ClearKeyboardHandler)
-[![Contact](https://img.shields.io/badge/Contact-%40davidseca-blue)](http://davidseca.website2.me)
+[![Version](https://img.shields.io/badge/pod-v0.0.3-red)](http://cocoapods.org/pods/ClearKeyboardHandler)
+[![Contact](https://img.shields.io/badge/Contact-%40davidseca-blue)](https://www.davidseca.de)
 
 
 ClearKeyboardHandler - A clear Keyboard Handler.
@@ -44,7 +44,7 @@ $ open ClearKeyboardHandler.xcworkspace
 ## Author
 
 David Seca
-[http://davidseca.website2.me](http://davidseca.website2.me)
+[https://www.davidseca.de](https://www.davidseca.de)
 
 ## License
 
